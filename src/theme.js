@@ -1,5 +1,5 @@
 export default {
-
+    // animationss
       animation: {
         'background-shine': 'background-shine 2s linear infinite',
         'fade-in': 'fade-in 0.6s ease-in',
